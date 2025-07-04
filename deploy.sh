@@ -1,7 +1,7 @@
 #!/bin/sh
 bundle exec jekyll build
-cp -r _site/* leieric.github.io
-cd leieric.github.io
+cp -r _site/* ../leieric.github.io
+cd ../leieric.github.io
 git add .
 git commit -m "latest"
 git push
