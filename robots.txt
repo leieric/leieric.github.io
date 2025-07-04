@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.seas.upenn.edu//~elei//sitemap.xml
+Sitemap: https://leieric.github.io/sitemap.xml
